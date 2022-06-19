@@ -1,3 +1,4 @@
 this is text file
 cler
 hello how are you
+how are you
